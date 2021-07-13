@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kat-white
+- 👋 Hi, I’m @incentwiz
 - 👀 I’m interested in ... gardening and well being
 - 🌱 I’m currently learning ... analytics and programming
 - 💞️ I’m looking to collaborate on ... new things!
