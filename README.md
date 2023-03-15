@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @incentwiz
-- 👀 I’m interested in ... gardening and well being
-- 🌱 I’m currently learning ... analytics and programming
-- 💞️ I’m looking to collaborate on ... new things!
-- 📫 How to reach me ... klinkcw@gmail.com
+👋 Hi, I’m Katy White.  I manage our Revenue Compensation Strategy and FY Planning innitiatives.
 
 <!---
 kat-white/kat-white is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
